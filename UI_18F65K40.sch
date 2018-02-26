@@ -1,6 +1,5 @@
 EESchema Schematic File Version 2
 LIBS:UI_18F65K40
-LIBS:UI_18F65K40-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268

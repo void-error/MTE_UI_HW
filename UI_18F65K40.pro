@@ -1,4 +1,4 @@
-update=25-Feb-18 1:38:15 PM
+update=26-Feb-18 10:25:41 AM
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,6 +25,11 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[eeschema]
+version=1
+LibDir=lib_sch
+[eeschema/libraries]
+LibName1=lib_sch/UI_18F65K40
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -35,8 +40,3 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
-[eeschema]
-version=1
-LibDir=lib_sch
-[eeschema/libraries]
-LibName1=lib_sch/UI_18F65K40
