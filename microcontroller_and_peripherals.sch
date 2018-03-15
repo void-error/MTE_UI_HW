@@ -772,7 +772,7 @@ F 1 "BSS84" V 8650 1200 50  0000 L CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 8700 1025 50  0001 L CIN
 F 3 "" H 8500 1100 50  0001 L CNN
 	1    8500 1100
-	0    1    -1   0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L BSS138 Q302
